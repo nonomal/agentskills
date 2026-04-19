@@ -21,7 +21,6 @@
   "navigation": {
     "pages": [
       "home",
-      "what-are-skills",
       "specification",
       "clients",
       {
@@ -58,6 +57,10 @@
     {
       "source": "/integrate-skills",
       "destination": "/client-implementation/adding-skills-support"
+    },
+    {
+      "source": "/what-are-skills",
+      "destination": "/"
     }
   ]
 }
